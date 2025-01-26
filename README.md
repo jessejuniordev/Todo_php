@@ -14,7 +14,7 @@ Um gerenciador de tarefas **(CRUD)**, desenvolvido em **PHP** com uma arquitetur
 - ✅ Marcar como concluídas.
 - ✅ Filtrar tarefas (concluídas/pedentes).
 - ✅ Interface responsiva.
-- ✅ Login (Admin **"Editar"** / Cliente **"Ler"**)
+- ✅ Login
 
 ---
 
