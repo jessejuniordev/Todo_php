@@ -1,0 +1,54 @@
+# Ignorar arquivos de sistema e do ambiente
+.env
+*.env.*
+*.DS_Store
+Thumbs.db
+
+# Ignorar pastas de cache e logs
+/storage/cache/
+storage/logs/
+storage/uploads/
+*.log
+
+# Ignorar dependências instaladas pelo Composer
+/vendor/
+
+# Ignorar relatórios de testes e cobertura
+/tests/_output/
+tests/_support/_generated/
+phpunit.xml
+phpunit.xml.dist
+coverage.xml
+.phpunit.result.cache
+
+# Ignorar arquivos de cache do PHP e IDEs
+*.phpunit.result.cache
+*.phpstorm.meta.php
+/.idea/
+/.vscode/
+/nbproject/
+
+# Ignorar arquivos gerados do Composer
+composer.lock
+
+# Ignorar arquivos do servidor web local
+/.htaccess
+public/assets/
+public/uploads/
+
+# Ignorar arquivos de backup e temporários
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Ignorar arquivos de banco de dados locais
+*.sqlite
+*.sql
+
+# Ignorar uploads de imagens/arquivos locais
+public/assets/images/uploads/
+public/assets/uploads/
+
+# Ignorar node_modules
+node_modules/
