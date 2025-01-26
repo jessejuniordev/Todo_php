@@ -1,0 +1,16 @@
+{
+    "name": "jessejunior/to-do",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jessejunior02",
+            "email": "jessepcarvalhojunior02@gmail.com"
+        }
+    ],
+    "require": {}
+}
