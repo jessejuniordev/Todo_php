@@ -12,5 +12,7 @@
             "email": "jessepcarvalhojunior02@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "league/plates": "^3.6"
+    }
 }
